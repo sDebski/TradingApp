@@ -1,0 +1,13 @@
+.button {
+  font-weight: bolder;
+  font-size: large;
+  border-radius: 10px;
+  text-align: center;
+  width: 150px;
+  height: 50px;
+  &:hover {
+    transition: .2s;
+    background-color: black;
+    color: white;
+  }
+}
