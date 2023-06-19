@@ -1,8 +1,12 @@
-This is Trading App.
-App includes:
-- acconts system
-- betting option based on WebSockets
-- chat option
-- chat history
-- history of won/betting auctions
+# Trading App.
+
+## App includes:
+- registering users
+- logging system
+- creating real time auctions
+- history of your won auctions
+- preview of auctions you are betting
+- betting using *WebSockets*
+- Chat with with unreaded messages by *WebSockets*
+ 
 
