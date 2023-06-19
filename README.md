@@ -1,4 +1,15 @@
-# Trading App.
+# Trading App
+
+
+--- | Backend| Frontend | 
+--- | --- | --- | 
+Framework| Express | Vue |
+
+Technologies overall:
+MongoDB, Express, SocketIO, Vue, Vuex, Passport.
+
+App was done as final project for Web Technologies subject.
+
 
 ## App includes:
 - registering users
