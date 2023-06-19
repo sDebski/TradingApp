@@ -6,7 +6,7 @@
 Framework| Express | Vue |
 
 Technologies overall:
-MongoDB, Express, SocketIO, Vue, Vuex, Passport.
+MongoDB, Express, SocketIO, Vue, Vuex, Passport, Sass
 
 App was done as final project for Web Technologies subject.
 
