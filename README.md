@@ -3,7 +3,7 @@
 
 --- | Backend| Frontend | 
 --- | --- | --- | 
-Framework| Express | Vue |
+Framework| Express + MongoDB + SocketIO | Vue + Sass + Vuex |
 
 Technologies overall:
 MongoDB, Express, SocketIO, Vue, Vuex, Passport, Sass
